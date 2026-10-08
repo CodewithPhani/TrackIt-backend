@@ -1,4 +1,4 @@
-# SkyLine Transit - Java Spring Boot Backend
+# TrackIt - Java Spring Boot Backend
 
 Complete Java Spring Boot backend for the Bus Tracking System.
 
